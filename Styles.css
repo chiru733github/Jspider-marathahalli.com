@@ -1,0 +1,25 @@
+.bg-dark
+{
+	background: linear-gradient(45deg,darkslategrey,black);
+}
+.dropdown-item:hover
+{
+	background: linear-gradient(45deg,darkslategrey,black);
+	color:white!important;
+}
+.bg-info
+{
+	background: linear-gradient(45deg,darkslategrey,rgb(22,190,119));
+}
+.bg-danger,.btn-danger
+{
+	background: linear-gradient(45deg,darkslategrey,red);
+}
+.bg-success,.btn-success
+{
+	background: linear-gradient(45deg,darkslategrey,limegreen);
+}
+.bg-secondary,.btn-secondary
+{
+	background: linear-gradient(45deg,darkslategrey,purple);
+}
